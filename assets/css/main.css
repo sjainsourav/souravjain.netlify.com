@@ -2,6 +2,7 @@
 
 html {
 	height: 100%;
+	overflow: hidden;
 }
 
 body {
@@ -60,7 +61,7 @@ a:hover {
 
 #main-container {
 	margin: 0 auto;
-	padding-top: 4%;
+	padding-top: 15%;
 }
 
 #icon-list {
