@@ -1,6 +1,6 @@
 Portfolio Website 📝
 
-📌 # https://thesouravjain.github.io/Portfolio-Website/
+# https://thesouravjain.github.io/Portfolio-Website/
 
-📌 # https://souravjain.netlify.com/
+# https://souravjain.netlify.com/
 
